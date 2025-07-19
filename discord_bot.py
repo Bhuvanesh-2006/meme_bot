@@ -17,4 +17,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = myclient(intents = intents)
-client.run("Your API key")
+client.run("Enter Your Discord Bot Token Here")
